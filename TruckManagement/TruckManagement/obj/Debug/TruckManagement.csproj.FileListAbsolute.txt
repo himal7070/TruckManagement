@@ -1,0 +1,11 @@
+C:\Users\himal\source\repos\TruckManagement\TruckManagement\bin\Debug\TruckManagement.exe.config
+C:\Users\himal\source\repos\TruckManagement\TruckManagement\bin\Debug\TruckManagement.exe
+C:\Users\himal\source\repos\TruckManagement\TruckManagement\bin\Debug\TruckManagement.pdb
+C:\Users\himal\source\repos\TruckManagement\TruckManagement\obj\Debug\TruckManagement.csproj.AssemblyReference.cache
+C:\Users\himal\source\repos\TruckManagement\TruckManagement\obj\Debug\TruckManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\himal\source\repos\TruckManagement\TruckManagement\obj\Debug\TruckManagement.Form1.resources
+C:\Users\himal\source\repos\TruckManagement\TruckManagement\obj\Debug\TruckManagement.Properties.Resources.resources
+C:\Users\himal\source\repos\TruckManagement\TruckManagement\obj\Debug\TruckManagement.csproj.GenerateResource.cache
+C:\Users\himal\source\repos\TruckManagement\TruckManagement\obj\Debug\TruckManagement.csproj.CoreCompileInputs.cache
+C:\Users\himal\source\repos\TruckManagement\TruckManagement\obj\Debug\TruckManagement.exe
+C:\Users\himal\source\repos\TruckManagement\TruckManagement\obj\Debug\TruckManagement.pdb
